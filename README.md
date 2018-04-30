@@ -16,6 +16,6 @@ If not, open terminal and paste and execute this: sudo apt-get install gtk2-engi
 
 First: Just copy the extracted file to a '.themes'-folder you make in your home directory. For systemwide use copy the files to usr/share/themes.
 
-Then use Tweak-tool to select the GTK and shell theme.
+Then use Tweak-tool to select the GTK theme.
 
 LOG OUT AND BACK IN for changes to take effect !
